@@ -8,7 +8,7 @@ package clase.main;
 
 /**
  *
- * @author pc
+ * @author luis
  */
 public class Principal {
     
